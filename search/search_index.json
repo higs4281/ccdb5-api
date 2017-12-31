@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Consumer Complaint Database search API\n\n\nThis API provides programmatic search access to the CFPB's database of consumer complaints. Results can be returned in json or xml formats.\n\n\nDetails on its use can be found \nhere\n.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/#consumer-complaint-database-search-api", 
+            "text": "This API provides programmatic search access to the CFPB's database of consumer complaints. Results can be returned in json or xml formats.  Details on its use can be found  here .", 
+            "title": "Consumer Complaint Database search API"
+        }
+    ]
+}
